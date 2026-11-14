@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**thedinuantony/thedinuantony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 About Me
+* 💼 **Current Role:** Technical Data Manager at **Airbus Defence and Space**
+* 🎓 **Academic Focus:** Developing technical architecture and security specifications for the **Global Supply Chain Observatory at the University of Cambridge**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 Current Focus
+* Designing resilient, security-focused platform architectures utilizing permissive open-source tooling (Apache 2.0 or equivalent).
+* Researching and implementing rigorous specifications for secure runtime states, CI/CD pipelines, and enterprise data flows.
+
+#### 📫 How to Reach Me
+* GitHub: [thedinuantony](https://github.com/thedinuantony)
+* LinkedIn: [thedinuantony](https://linkedin.com/in/thedinuantony)
